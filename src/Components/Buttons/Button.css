@@ -5,9 +5,9 @@
     cursor: pointer;
     display: flex;
     font-size: 45px;
-    height: 100px;
+    height: 110px;
     justify-content: center;
-    width: 110px;
+    width: 120px;
     transition: filter 0.3s ease-in;
 }
 
